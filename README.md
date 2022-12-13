@@ -11,7 +11,7 @@
 <p float="left">
 <img src="https://github.com/Sofanit/HandVideo/blob/main/scene.png" width="300" />
 <img src="https://github.com/Sofanit/HandVideo/blob/main/hand.png" width="300"/>
-<img src="https://github.com/Sofanit/HandVideo/blob/main/ezgif.com-gif-maker.gif" width="300"/>
+
 </p>
 
 
@@ -24,3 +24,5 @@ How to run the project
 python main.py
 ~~~
 start playing the game.
+# Demo
+<img src="https://github.com/Sofanit/HandVideo/blob/main/ezgif.com-gif-maker.gif" width="200"/>
