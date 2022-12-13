@@ -25,4 +25,8 @@ python main.py
 ~~~
 start playing the game.
 # Demo
-<img src="https://github.com/Sofanit/HandVideo/blob/main/ezgif.com-gif-maker.gif" width="200"/>
+<img src="https://github.com/Sofanit/HandVideo/blob/main/ezgif.com-gif-maker.gif" width="200"/></img>
+### References
+- 3d Hand Tracking in virtual Environment - Computer vision - https://www.youtube.com/watch?v=RQ-2JWzNc6k&t=2260s
+- Coding in Flow - Build your First 3D Game in Unity - https://www.youtube.com/watch?v=B90r-209vYk&t=679s
+- Custom Hand Gesture Recognition with Hand Landmarks Using Google's Mediapipe - https://www.youtube.com/watch?v=a99p_fAr6e4
